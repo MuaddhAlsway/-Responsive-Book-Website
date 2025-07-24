@@ -3,16 +3,6 @@
 
 A fully responsive and elegant **Book Website** built using **HTML, CSS, and JavaScript**. This project demonstrates strong front-end fundamentals with a clean layout, category sections, and mobile-first responsive design.
 
-## 🎬 Project Tutorial (YouTube)
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=b7eJQSHhuO8)
-
----
-
----
-
-
-
-https://github.com/user-attachments/assets/8eafea63-28c8-4c69-8e02-52c338805723
 
 
 
@@ -23,6 +13,18 @@ https://github.com/user-attachments/assets/8eafea63-28c8-4c69-8e02-52c338805723
 This Book Website is a static front-end project that presents book collections with a focus on modern UI/UX design. It includes a hero section, featured books, categories, and an interactive, responsive layout that adapts to any screen size.
 
 ---
+## 🎬 Project Tutorial (YouTube)
+[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=b7eJQSHhuO8)
+
+---
+
+
+
+
+
+https://github.com/user-attachments/assets/8eafea63-28c8-4c69-8e02-52c338805723
+
+
 
 ## ✨ Features
 
@@ -68,9 +70,9 @@ book-website/
 ## 🚀 Getting Started
 
 To run this project locally:
-
+```
 1. Clone the repository:
-   ```
+
    git clone https://github.com/your-username/book-website.git
 
     Navigate to the folder and open index.html in your browser:
@@ -80,7 +82,7 @@ To run this project locally:
     Or simply double-click index.html to view in your browser.
 
     No installation required — it's a static website.
-
+```
 
 ## 👨‍💻 Developed By
 
@@ -89,5 +91,7 @@ To run this project locally:
 <a href="https://www.linkedin.com/in/muaddh-alsway/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
 </a>
+
+## 🔗 Link Post :
 
 ## ⭐ Show Your Support

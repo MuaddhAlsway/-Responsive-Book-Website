@@ -93,5 +93,8 @@ To run this project locally:
 </a>
 
 ## 🔗 Link Post :
+<a href="https://www.linkedin.com/posts/muaddh-alsway_html-css-javascript-activity-7354115855955226624-J1B-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Badge"/>
+</a>
 
 ## ⭐ Show Your Support
